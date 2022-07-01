@@ -8,8 +8,8 @@
 ### 🙋‍♂️ ABOUT ME : 
 
 - ✨ Here's my [Personal Website](https://ksound22.github.io/)
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on my technical articles 
+- 🌱 I’m currently learning Next JS and more JavaScript
 - ⚽ I'm a big fan of Football & WWE
 - 💬 Ask me about ...
 

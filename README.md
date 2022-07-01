@@ -8,10 +8,10 @@
 ### 🙋‍♂️ ABOUT ME : 
 
 - ✨ Here's my [Personal Website](https://ksound22.github.io/)
-- 🔭 I’m currently working on my technical articles 
+- 🔭 I’m currently working on a startup project I'll reveal to the world soon
 - 🌱 I’m currently learning Next JS and more JavaScript
 - ⚽ I'm a big fan of Football & WWE
-- 💬 Ask me about ...
+- 💬 Ask me about how we can work together. I excel in technical writing and copywriting, So I can help you in that aspect of your website.
 
 ### 📬 REACH ME OUT :
 <p align="left">
@@ -25,7 +25,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white">
 </a>
 
-<h3> ✍ MY ARTICLES : One of my most valuable ♥ contributions </h3>
+<h3> ✍ MY FREECODECAMP ARTICLES are One of my most valuable ♥ contributions to the world</h3>
 <a href="https://www.freecodecamp.org/news/author/kolade/">
 <img src="https://img.shields.io/badge/freeCodeCamp-0A0A23.svg?style=for-the-badge&logo=freeCodeCamp&logoColor=white">
 </a>

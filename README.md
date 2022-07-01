@@ -7,7 +7,7 @@
 
 ### 🙋‍♂️ ABOUT ME : 
 
-- ✨ Here's my [Personal Website](https://ksound22.github.io/)
+- ✨ Here's my [writing portfolio freeCodeCamp Author page](Link)
 - 🔭 I’m currently working on a startup project I'll reveal to the world soon
 - 🌱 I’m currently learning Next JS and more JavaScript
 - ⚽ I'm a big fan of Football & WWE

@@ -7,7 +7,7 @@
 
 ### 🙋‍♂️ ABOUT ME : 
 
-- ✨ Here's my [writing portfolio](Link)
+- ✨ Here's my [writing portfolio]([Link](http://koladechris.com/))
 - 🔭 I’m currently working on a startup project I'll reveal to the world soon
 - 🌱 I’m currently learning Next JS and more JavaScript
 - ⚽ I'm a big fan of Football & WWE

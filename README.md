@@ -7,13 +7,13 @@
 
 ### 🙋‍♂️ ABOUT ME : 
 
-- ✨ Here's my [writing portfolio](http://koladechris.com/)
+- ✨ Here's my [portfolio](http://koladechris.com/)
 - 🔭 I’m currently working on a startup project I'll reveal to the world soon
 - 🌱 I’m currently learning Next JS and more JavaScript
 - ⚽ I'm a big fan of Football & WWE
-- 💬 Ask me about how we can work together. I excel in technical writing and copywriting, So I can help you in that aspect of your website.
+- 💬 Ask me about how we can work together. I excel in development with React/Next JS, technical writing, and copywriting, So, I can help you with those aspects of your business.
 
-### 📬 REACH ME OUT :
+### 📬 REACH OUT TO ME:
 <p align="left">
 <a href="https://twitter.com/ksound22">
 <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
@@ -40,7 +40,6 @@
 <img src="https://img.icons8.com/ultraviolet/2x/react--v2.gif" width="60" />
 <img src="https://img.icons8.com/color/344/nodejs.png" width="60" />
 <img src="https://img.icons8.com/color/344/tailwindcss.png" width="60" />
-<img src="https://img.icons8.com/nolan/344/heroku.png" width="60" />
 <img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/344/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-filled-tal-revivo.png" width="60" />
 </p>
 

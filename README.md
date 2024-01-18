@@ -25,7 +25,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white">
 </a>
 
-<h3> ✍ My **freeCodeCamp articles** are One of my most valuable ♥ contributions to the world</h3>
+<h3> ✍ My *freeCodeCamp articles* are one of my most valuable ♥ contributions to the world</h3>
 <a href="https://www.freecodecamp.org/news/author/kolade/">
 <img src="https://img.shields.io/badge/freeCodeCamp-0A0A23.svg?style=for-the-badge&logo=freeCodeCamp&logoColor=white">
 </a>
@@ -56,9 +56,6 @@
   </a>
   <a href="https://github.com/Ksound22/github-readme-streak-stats">
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ksound22&theme=midnight-purple" />
-  </a>
-  <a href="https://github.com/Ksound22/github-readme-activity-graph">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Ksound22&theme=elegant" />
   </a>
  </p>
  <br/>

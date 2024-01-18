@@ -41,7 +41,6 @@
 <img src="https://img.icons8.com/?size=60&id=r2OarXWQc7B6&format=png" alt="Next" width="60" />
 <img src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/344/external-mongodb-a-cross-platform-document-oriented-database-program-logo-green-tal-revivo.png" width="60" />
 <img src="https://www.orangemantra.com/wp-content/uploads/2019/05/expressjs-icon.png" width="60" />
-<img src="https://img.icons8.com/ultraviolet/2x/react--v2.gif" width="60" />
 <img src="https://img.icons8.com/color/344/nodejs.png" width="60" />
 <img src="https://img.icons8.com/color/344/tailwindcss.png" width="60" />
 <img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/344/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-filled-tal-revivo.png" alt="Netlify" width="60" />

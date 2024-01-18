@@ -55,7 +55,7 @@
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ksound22&theme=synthwave&show_icons=true" />
   </a>
   <a href="https://github.com/Ksound22/github-readme-streak-stats">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ksound22&theme=synthwave" />
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ksound22&theme=radical" />
   </a>
  </p>
  <br/>

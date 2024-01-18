@@ -41,7 +41,7 @@
 <img src="https://img.icons8.com/color/344/nodejs.png" width="60" />
 <img src="https://img.icons8.com/color/344/tailwindcss.png" width="60" />
 <img src="https://img.icons8.com/?size=60&id=lckHFUP7nJhG&format=png" width="60" />
-<img src="https://img.icons8.com/?size=60&id=yUdJlcKanVbh&format=png" width="60" />
+<img src="https://img.icons8.com/?size=24&id=r2OarXWQc7B6&format=png" width="60" />
 <img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/344/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-filled-tal-revivo.png" width="60" />
 </p>
 

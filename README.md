@@ -57,7 +57,7 @@
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ksound22&theme=synthwave&show_icons=true" />
   </a>
   <a href="https://github.com/Ksound22/github-readme-streak-stats">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ksound22&theme=monokai&date_format=M%20j%5B%2C%20Y%5D" />
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ksound22&theme=monokai" />
   </a>
  </p>
  <br/>

@@ -43,8 +43,8 @@
 <img src="https://www.orangemantra.com/wp-content/uploads/2019/05/expressjs-icon.png" width="60" />
 <img src="https://img.icons8.com/color/344/nodejs.png" width="60" />
 <img src="https://img.icons8.com/color/344/tailwindcss.png" width="60" />
-<img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/344/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-filled-tal-revivo.png" alt="Netlify" width="60" />
 </div>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Vercel_logo_black.svg/512px-Vercel_logo_black.svg.png" alt="Vercel" width="60" />
 
 
 

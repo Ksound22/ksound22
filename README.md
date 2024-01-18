@@ -40,7 +40,7 @@
 <img src="https://img.icons8.com/ultraviolet/2x/react--v2.gif" width="60" />
 <img src="https://img.icons8.com/color/344/nodejs.png" width="60" />
 <img src="https://img.icons8.com/color/344/tailwindcss.png" width="60" />
-<img src="https://icons8.com/icon/lckHFUP7nJhG/astro" width="60" />
+<img src="https://img.icons8.com/?size=60&id=lckHFUP7nJhG&format=png" width="60" />
 <img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/344/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-filled-tal-revivo.png" width="60" />
 </p>
 

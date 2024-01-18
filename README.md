@@ -25,7 +25,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white">
 </a>
 
-<h3> ✍ My *freeCodeCamp articles* are one of my most valuable ♥ contributions to the world</h3>
+<h3> ✍🏾 My freeCodeCamp articles are one of my most valuable ♥ contributions to the world</h3>
 <a href="https://www.freecodecamp.org/news/author/kolade/">
 <img src="https://img.shields.io/badge/freeCodeCamp-0A0A23.svg?style=for-the-badge&logo=freeCodeCamp&logoColor=white">
 </a>

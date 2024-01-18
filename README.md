@@ -52,10 +52,10 @@
  <br/>
  <p align="center">
   <a href="https://github.com/Ksound22/github-readme-stats">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ksound22&theme=green&show_icons=true" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ksound22&theme=dark&show_icons=true" />
   </a>
   <a href="https://github.com/Ksound22/github-readme-streak-stats">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ksound22&theme=green" />
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ksound22&theme=dark" />
   </a>
  </p>
  <br/>

@@ -1,22 +1,22 @@
 <img align="left" src="https://blog.joypixels.com/content/images/2019/06/waving_hand_sign_1024.gif" width="80">
-<h2> Hi, Folks! Thanks for stopping by...😊</h2>
+<h2> Hi, folks! Thanks for stopping by...😊</h2>
 
 <br clear="left" />
 
 <img align="right" src="https://github.com/ShruAgarwal/ksound22/blob/main/cover.gif" width="250">
 
-### 🙋‍♂️ ABOUT ME : 
+### 🙋‍♂️ ABOUT ME: 
 
 - ✨ Here's my [portfolio](http://koladechris.com/)
 - 🔭 I’m currently working on a startup project I'll reveal to the world soon
-- 🌱 I’m currently learning Next JS and more JavaScript
-- ⚽ I'm a big fan of Football & WWE
+- 🌱 I’m currently learning Next JS, Astro, and more JavaScript
+- ⚽ I'm a big fan of Football & the WWE
 - 💬 Ask me about how we can work together. I excel in development with React/Next JS, technical writing, and copywriting, So, I can help you with those aspects of your business.
 
 ### 📬 REACH OUT TO ME:
 <p align="left">
 <a href="https://twitter.com/ksound22">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
+<img src="https://img.shields.io/badge/X-1DA1F2.svg?style=for-the-badge&logo=X&logoColor=white">
 </a>
 <a href="https://github.com/Ksound22">
 <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white">
@@ -25,7 +25,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white">
 </a>
 
-<h3> ✍ MY FREECODECAMP ARTICLES are One of my most valuable ♥ contributions to the world</h3>
+<h3> ✍ My **freeCodeCamp articles** are One of my most valuable ♥ contributions to the world</h3>
 <a href="https://www.freecodecamp.org/news/author/kolade/">
 <img src="https://img.shields.io/badge/freeCodeCamp-0A0A23.svg?style=for-the-badge&logo=freeCodeCamp&logoColor=white">
 </a>
@@ -40,14 +40,15 @@
 <img src="https://img.icons8.com/ultraviolet/2x/react--v2.gif" width="60" />
 <img src="https://img.icons8.com/color/344/nodejs.png" width="60" />
 <img src="https://img.icons8.com/color/344/tailwindcss.png" width="60" />
+<img src="https://icons8.com/icon/lckHFUP7nJhG/astro" width="60" />
 <img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/344/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-filled-tal-revivo.png" width="60" />
 </p>
 
 
 
 ### ⚡ GIHUB 
-<details> 
- <summary> 💻 Profile Stats </summary>
+
+ <h3> 💻 Profile Stats </h3>
  <br/>
  <p align="center">
   <a href="https://github.com/Ksound22/github-readme-stats">
@@ -61,4 +62,3 @@
   </a>
  </p>
  <br/>
- </details>

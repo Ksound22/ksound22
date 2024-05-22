@@ -1,4 +1,4 @@
-Hi ther 👋 <br> <br>
+Hi there 👋 <br> <br>
 My name is Kolade Chris
 =============================
 

@@ -1,4 +1,5 @@
-Hi 👋 My name is Kolade Chris
+Hi 👋
+My name is Kolade Chris
 =============================
 
 Software develeoper and technical writer

@@ -9,8 +9,8 @@ I'm a software developer and tech writer with a combined 8+ years experience. I'
 
 * 🌍  Here's my [website and blog](https://www.koladechris.com)
 * ✉️  You can contact me at [chrisjay967@gmail.com](mailto:chrisjay967@gmail.com)
-* 🧠  I'm learning Astro, more React and Next JS
-* 🤝  I'm open to collaborating on Astro, React, Next JS, and writing
+* 🧠  I'm learning Laravel, more Astro, React and Next JS
+* 🤝  I'm open to collaborating on Laravel, Astro, React, Next JS, and writing
 * ⚡  I'm a big football fan
 
 

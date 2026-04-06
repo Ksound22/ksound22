@@ -2,15 +2,15 @@ Hi there 👋 <br> <br>
 My name is Kolade Chris
 =============================
 
-Software develeoper and technical writer
+Software developer and technical writer
 ----------------------------------------
 
-I'm a software developer and tech writer with a combined 8+ years experience. I've authored more than 200 articles on topics including web development, programming, PC guides, and IT.
+I'm a software developer and tech writer with a combined 9+ years of experience. I've authored more than 200 articles on topics including web development, programming, PC guides, and IT.
 
 * 🌍  Here's my [website and blog](https://www.koladechris.com)
 * ✉️  You can contact me at [chrisjay967@gmail.com](mailto:chrisjay967@gmail.com)
-* 🧠  I'm learning PHP with Laravel, more Astro, React and Next JS
-* 🤝  I'm open to collaborating on PHP, Laravel, Astro, React, Next JS, and writing
+* 🧠  I'm learning Agentic AI and RAG, and more PHP with Laravel
+* 🤝  I'm open to collaborating on Agentic AI, PHP, Laravel, Astro, React, Next JS, and writing
 * ⚡  I'm a big football fan
 
 
@@ -30,8 +30,4 @@ I'm a software developer and tech writer with a combined 8+ years experience. I'
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/ksound22"><img src="https://github-readme-stats.vercel.app/api?username=ksound22&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ksound22's GitHub stats" /></a>
-
 <a href="http://www.github.com/ksound22"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ksound22&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/ksound22"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ksound22&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
